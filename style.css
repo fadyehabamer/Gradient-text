@@ -1,0 +1,15 @@
+.text-gradient{
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(to right,darkblue,darkorchid);
+    color: transparent;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -o-background-clip: text;
+    background-clip: text;
+}
+::selection{
+    color: white;
+    background-color: darkorchid;
+}
