@@ -1,2 +1,2 @@
 # Gradient Text
-> css3
+> text gradient using CSS but not compitable
