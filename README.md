@@ -1,2 +1,2 @@
 # Gradient Text
-## using css3
+> css3
