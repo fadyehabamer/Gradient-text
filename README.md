@@ -1,3 +1,2 @@
 # Gradient Text
-> text gradient using CSS but not compitable only
-with google chrome 
+> text gradient using CSS but compitable only with google chrome 
